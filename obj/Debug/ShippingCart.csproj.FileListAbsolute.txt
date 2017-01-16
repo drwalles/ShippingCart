@@ -1,0 +1,9 @@
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\bin\Debug\ShippingCart.exe.config
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\bin\Debug\ShippingCart.exe
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\bin\Debug\ShippingCart.pdb
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\obj\Debug\ShippingCart.csprojResolveAssemblyReference.cache
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\obj\Debug\ShippingCart.Form1.resources
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\obj\Debug\ShippingCart.Properties.Resources.resources
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\obj\Debug\ShippingCart.csproj.GenerateResource.Cache
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\obj\Debug\ShippingCart.exe
+c:\users\drw\documents\visual studio 2015\Projects\ShippingCart\ShippingCart\obj\Debug\ShippingCart.pdb
